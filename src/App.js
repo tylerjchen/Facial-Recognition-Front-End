@@ -29,7 +29,7 @@ const initialState = {
   user: {
     id: '',
     name: '',
-    email: 'sally@.com',
+    email: '',
     entries: 0,
     joined: ''
   }
